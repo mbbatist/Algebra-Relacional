@@ -1,0 +1,9 @@
+Clary Fairchild; 409 norte; Palmas;
+Marcelo Ferreira; alameda 22; Palmas;
+Fernando Souza; alameda 10; Palmas;
+Rodrigo Alves; 409 norte; Palmas;
+Priscila Alcantara; rua das flores; Araguaina;
+Vitor Goncalves; alameda 32; Palmas;
+Valentina; rua dos cravos; Miracema;
+Jace Wayland; 409 norte; Palmas;
+
